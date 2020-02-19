@@ -1,0 +1,14 @@
+/*
+Every time it loops through a number, it should print "The number is # and " and a specific message on a line in the DOM.
+
+The specific messages should state
+If the number is below 0
+If the number is greater than 50
+If the number equals 14
+
+When I click on one of the lines, it should increase the value by 1, with the message staying as it was
+
+In the end, I should see six different lines, each one containing a message letting me know what the number is. 
+
+None of the numbers should have multiple messages
+*/
